@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DanielTeshager
-- 👀 I’m interested in Python and Data Science, ML and Blockchain
-- 🌱 I’m currently learning ML 
-- 💞️ I’m looking to collaborate on any Data Analysis and Python programming projects
+- 👋 Hi, I’m @danteshager
+- 👀 I’m interested in working on Javascript, Python and Blockchain
+- 🌱 I’m currently learning React and VueJs
+- 💞️ I’m looking to collaborate on any Frontend and Backend projects
 - 📫 How to reach me dwolela@gmail.com or @danteshager on twitter 
 
 <!---
