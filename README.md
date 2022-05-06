@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danteshager
-- 👀 I love programming, creating toy projects for fun and learning new stuff.
-- 🌱 I’m currently learning React and VueJs
+- 👀 I love programming, creating projects for fun and learning new stuff online.
+- 🌱 React, VueJs, Flask and PostgreSQL are my goto tools. 
 - 💞️ I’m looking to collaborate on any web development related projects. 
 - 📫 You can reach me via email dwolela@gmail.com or @danteshager on twitter.
 
